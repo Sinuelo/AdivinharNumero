@@ -1,2 +1,2 @@
 # adivinharnumero
-Joguinho básico de adivinhar o número
+Joguinho básico em Python de adivinhar o número
