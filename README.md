@@ -1,3 +1,5 @@
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+
 # Jogo de adivinhar o número
 
 Joguinho de adivinhar o número utilizando a biblioteca random, que já vem com o Python
